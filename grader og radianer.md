@@ -6,7 +6,7 @@ Vi lager funksjoner i python for å gjøre om mellom dem.
 Definisjon av en radian:
 Radian er et vinkelmål, definert ved buelengde delt på radius.
 
-Se for deg en sirkel som deles inn i sektorer.
+Se for deg en sirkel som deles inn i sektorer.  
 Én radian er da en sektor hvor buelengden _b_ er like lang som radiusen _r_.
 
 *b = r*
