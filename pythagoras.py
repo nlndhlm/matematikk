@@ -7,5 +7,3 @@ def pythagoras(a, b):
     return c
 
 print(pythagoras(3,4))
-
-c = pythagoras(3, 4)
