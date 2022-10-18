@@ -13,7 +13,7 @@ Legg merke til at vi legger sammen de to siste elementene i lista, `seq[-1]` og 
 
 
 
-``
+```
 def nth_fibonacci(n):
     seq = [0, 1]
 
@@ -24,4 +24,4 @@ def nth_fibonacci(n):
     return seq[-1]
 
 print(nth_fibonacci(250))
-``
+```
