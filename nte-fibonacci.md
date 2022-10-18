@@ -11,7 +11,7 @@ Neste steg blir å legge sammen disse to, slik at vi får neste tall i rekka:
 Legg merke til at vi legger sammen de to siste elementene i lista, `seq[-1]` og `seq[-2]`, fremfor de to første (`seq[0]` og `seq[1]`).  
 Dette gjør at vi fortsatt får rett løsning selv om lista skulle bli lenger.  
 
-Neste steg blir nå å legge til det nye fibonacci-tallet i lista:  
+Neste steg blir nå å legge til det nye tallet i lista:  
 
 `seq.append(fib)`  
 
