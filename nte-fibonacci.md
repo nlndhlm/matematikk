@@ -4,7 +4,7 @@ Vi begynner med å lage en liste, som inneholder de to første tallene i Fibonac
 
 `seq = [0, 1]`
 
-Neste steg blir å legge sammen disse to, slik at vi får neste tall i rekka.  
+Neste steg blir å legge sammen disse to, slik at vi får neste tall i rekka:  
 
 `fib = seq[-1] + seq[-2]`
 
@@ -46,3 +46,5 @@ def nth_fibonacci(n):
 
 print(nth_fibonacci(250))
 ```
+
+Output: `4880197746793002076754294951020699004973287771475874`
