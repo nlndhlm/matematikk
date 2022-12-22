@@ -1,4 +1,9 @@
 def primtall_test(n):
+    
+    if n < 2:
+        raise ValueError("Tast inn et heltall større enn 1")
+    
+    
     i = 2
 
     while i < n:
